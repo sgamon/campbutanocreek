@@ -1,5 +1,5 @@
 campbutanocreek
 ===============
 
-A website for Camp Butano Creek - a Girl Scouts summer camp on the California coast.
+A website for Camp Butano Creek - a Girl Scout summer camp on the California coast.
 
